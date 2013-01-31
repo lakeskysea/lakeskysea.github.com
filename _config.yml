@@ -81,9 +81,9 @@ JB :
   comments :
     provider : disqus
     disqus :
-      short_name : jekyllbootstrap
+      short_name : skysgarage
     livefyre :
-      site_id : 123
+      site_id : 322798
     intensedebate :
       account : 123abc
     facebook :

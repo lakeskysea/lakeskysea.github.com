@@ -6,3 +6,5 @@ category:
 tags: []
 ---
 {% include JB/setup %}
+
+As usual, this is the frist post.
